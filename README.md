@@ -1,4 +1,4 @@
-Hi, I’m Morufat, and I'm a beginner in web development. I’m currently learning web development (frontend) and I’m passionate about learning new technologies and improving my skills.
+Hi, I’m Morufat, and I'm a frontend developer. I’m currently learning web development (frontend) and I’m passionate about learning new technologies and improving my skills.
 I hope to connect with other developers and learning from their experiences, and I'm always up for a challenge😊❤
 
   
