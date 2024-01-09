@@ -1,4 +1,4 @@
-Hello, I’m Lamidi Morufat Kajogbola a graduate of Estate Management from Obafemi Awolowo University and a frontend engineering student at devcareer.io with graduation date set to January, 2024.
+Hello, I’m Lamidi Morufat Kajogbola a graduate of Estate Management from Obafemi Awolowo University and a frontend engineering student at [devCareers](http://devcareer.io) with graduation date set to January, 2024.
 
 I bring to the table a high level of focus, dedication, and commitment. My ambition is to consistently add value to any organization I represent through professional performance, transparency, and an unwavering pursuit of excellence. I’m passionate about learning new technologies and improving my skills and I hope to connect with other developers and learning from their experiences
 
