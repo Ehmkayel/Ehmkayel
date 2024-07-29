@@ -11,7 +11,8 @@ I specialize in creating visually appealing web experiences with functionalities
 
 I'm excited about the possibilities that lie ahead, and I'm ready to contribute my skills and passion to make a positive impact. Let's connect and explore together! Mind you I'm always up for a challenge
 
-I am currently building: connect-pro-beta.vercel.app
+I am currently building: [Connect Pro](https://connect-pro-beta.vercel.app/)
+
 Tech Stacks:
 
 HTML/CSS, TAILWIND,  BOOTSTRAP, SCSS, JAVASCRIPT  and REACT(learning).
