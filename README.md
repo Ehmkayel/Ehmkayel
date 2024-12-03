@@ -1,14 +1,14 @@
-Hello! I’m <h1><b>Lamidi Morufat Kajogbola</b></h1>, a graduate of Estate Management from Obafemi Awolowo University and a <h3><b>certified Frontend Engineer</b></h3> from [devCareers](http://devcareer.io). I specialize in building fast, seamless, visually engaging and functional websites that captivate users and deliver results.
+Hello! I’m <b>Lamidi Morufat Kajogbola</b>, a graduate of Estate Management from Obafemi Awolowo University and a <b>certified Frontend Engineer</b> from [devCareers](http://devcareer.io). I specialize in building fast, seamless, visually engaging and functional websites that captivate users and deliver results.
 
-I bring to the table a high level of <em><b>focus</b></em>, <em><b>dedication</b></em>, and <em><b>commitment</b></em><h1 to every task I undertake. My ambition is to consistently add value to any organization I represent through professional performance, transparency, and a strong pursuit of excellence. 
+I bring to the table a high level of <em><b>focus</b></em>, <em><b>dedication</b></em>, and <em><b>commitment</b></em> to every task I undertake. My ambition is to consistently add value to any organization I represent through professional performance, transparency, and a strong pursuit of excellence. 
 
-<h2>I'm passionate about:</h2>
+<h4>I'm passionate about:</h2>
 
 - Learning new technologies and improving my skill set.
 - Building solutions that solve real-world problems.
 - Collaborating with other developers and learning from their experiences.
 
-Currently, I am following [roadmap.sh]() structured software development roadmap and I am also enhancing my skills by building projects..
+Currently, I am following [roadmap.sh]() structured roadmap and I am also enhancing my skills by building projects..
 
 During my DevCareers Bootcamp, I served as the Assistant Lead for a capstone project where:
 
