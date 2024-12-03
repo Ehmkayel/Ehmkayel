@@ -1,13 +1,23 @@
-Hello, I’m Lamidi Morufat Kajogbola a graduate of Estate Management from Obafemi Awolowo University and I have a frontend engineering certification from [devCareers](http://devcareer.io).
+Hello! I’m <h1><b>Lamidi Morufat Kajogbola</b></h1>, a graduate of Estate Management from Obafemi Awolowo University and a <h3><b>certified Frontend Engineer</b></h3> from [devCareers](http://devcareer.io). I specialize in building fast, seamless, visually engaging and functional websites that captivate users and deliver results.
 
-I bring to the table a high level of focus, dedication, and commitment. My ambition is to consistently add value to any organization I represent through professional performance, transparency, and an unwavering pursuit of excellence. I’m passionate about learning new technologies and improving my skills and I hope to connect with other developers and learning from their experiences
+I bring to the table a high level of <em><b>focus</b></em>, <em><b>dedication</b></em>, and <em><b>commitment</b></em><h1 to every task I undertake. My ambition is to consistently add value to any organization I represent through professional performance, transparency, and a strong pursuit of excellence. 
 
-Currently, I am in an Internship Trainee at Programmify, and I am also enhancing my skills by building projects..
+<h2>I'm passionate about:</h2>
 
-During my bootcamp, I served as the Assistant Lead for a capstone project at DevCareer. In this role, I facilitated communication and collaboration within the team, managed the project timeline, and presented our project to our mentor and person of contact. I also led the frontend team and contributed to the codebase. Our determination helped us in meeting the deadline and delivering a high-quality project that received positive feedback, placing us in the top 15 out of 52 teams.
+- Learning new technologies and improving my skill set.
+- Building solutions that solve real-world problems.
+- Collaborating with other developers and learning from their experiences.
 
+Currently, I am following [roadmap.sh]() structured software development roadmap and I am also enhancing my skills by building projects..
 
-I specialize in creating visually appealing web experiences with functionalities. I have a strong foundation in HTML, CSS, and JAVASCRIPT and I'm currently learning a javascript library (React) as part of my learning journey
+During my DevCareers Bootcamp, I served as the Assistant Lead for a capstone project where:
+
+- I facilitated team communication and collaboration.
+- Managed the project timeline to ensure timely delivery.
+- Presented our project to our mentor and stakeholders.
+- Led the frontend team and actively contributed to the codebase.
+- The project was highly successful, placing top 15 out of 52 teams, and received positive feedback for its quality and functionality.
+
 
 I'm excited about the possibilities that lie ahead, and I'm ready to contribute my skills and passion to make a positive impact. Let's connect and explore together! Mind you I'm always up for a challenge
 
@@ -15,9 +25,15 @@ I am currently building: [Connect Pro](https://connect-pro-beta.vercel.app/)
 
 Tech Stacks:
 
-HTML/CSS, TAILWIND,  BOOTSTRAP, SCSS, JAVASCRIPT  and REACT(learning).
+HTML/CSS, TAILWIND,  BOOTSTRAP, SCSS, STYLED-COMPONENTS, CSS MODULES, JAVASCRIPT  and REACT(learning).
 
-You can always reach out to me on lamidimorufat0@gmail.com
+You can always reach out to me on 
+ - Linkedin- [Morufat-Lamidi](https://linkedin.com/in/morufat-lamidi)
+ - Frontend Mentor - [@Ehmkayel](https://www.frontendmentor.io/profile/Ehmkayel)
+ - Twitter - [@kamalehmk](https://www.twitter.com/kamalehmk)
+ - Gmail- [Mail](mailto:lamidimorufat0@gmail.com);
+
+
 
 
 
