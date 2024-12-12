@@ -21,7 +21,7 @@ During my DevCareers Bootcamp, I served as the Assistant Lead for a capstone pro
 
 I'm excited about the possibilities that lie ahead, and I'm ready to contribute my skills and passion to make a positive impact. Let's connect and explore together! Mind you I'm always up for a challenge
 
-I am currently building: [Connect Pro](https://connect-pro-beta.vercel.app/)
+I am currently building: <b>DeclutMart</b>
 
 Tech Stacks:
 
