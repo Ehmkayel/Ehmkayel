@@ -18,6 +18,8 @@ During my DevCareers Bootcamp, I served as the Assistant Lead for a capstone pro
 - Led the frontend team and actively contributed to the codebase.
 - The project was highly successful, placing top 15 out of 52 teams, and received positive feedback for its quality and functionality.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ehmkayel&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
 
 I'm excited about the possibilities that lie ahead, and I'm ready to contribute my skills and passion to make a positive impact. Let's connect and explore together! Mind you I'm always up for a challenge
 
