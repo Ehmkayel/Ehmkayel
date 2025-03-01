@@ -27,7 +27,7 @@ I am currently building: <b>DeclutMart</b>
 
 Tech Stacks:
 
-HTML/CSS, TAILWIND,  BOOTSTRAP, SCSS, STYLED-COMPONENTS, CSS MODULES, JAVASCRIPT  and REACT(learning).
+HTML/CSS, TAILWIND,  BOOTSTRAP, SCSS, STYLED-COMPONENTS, CSS MODULES, JAVASCRIPT, TYPESCRIPT, REACT, NEXT.JS.
 
 You can always reach out to me on 
  - Linkedin- [Morufat-Lamidi](https://linkedin.com/in/morufat-lamidi)
