@@ -7,6 +7,8 @@ I bring to the table a high level of <em><b>focus</b></em>, <em><b>dedication</b
 - Learning new technologies and improving my skill set.
 - Building solutions that solve real-world problems.
 - Collaborating with other developers and learning from their experiences.
+  
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Ehmkayel)
 
 Currently, I am following [roadmap.sh]() structured roadmap and I am also enhancing my skills by building projects..
 
