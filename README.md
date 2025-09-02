@@ -10,7 +10,7 @@ I bring to the table a high level of <em><b>focus</b></em>, <em><b>dedication</b
   
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Ehmkayel)
 
-Currently, I am following [roadmap.sh]() structured roadmap and I am also enhancing my skills by building projects..
+**I am currently on a one-year Women Techsters Fellowship scholarship with Tech4Dev, specializing in Frontend Development.**
 
 ## Experience & Achievements 
 
