@@ -1,4 +1,4 @@
-Hello! I’m <b>Lamidi Morufat Kajogbola</b>, a graduate of Estate Management from Obafemi Awolowo University and a <b>certified Frontend Engineer</b> from [devCareers](http://devcareer.io). I specialize in building fast, seamless, visually engaging and functional websites that captivate users and deliver results.
+Hello! I’m <b>Alade Morufat Lamidi</b>, a graduate of Estate Management from Obafemi Awolowo University and a <b>certified Frontend Engineer</b> from [devCareers](http://devcareer.io). I specialize in building fast, seamless, visually engaging and functional websites that captivate users and deliver results.
 
 I bring to the table a high level of <em><b>focus</b></em>, <em><b>dedication</b></em>, and <em><b>commitment</b></em> to every task I undertake. My ambition is to consistently add value to any organization I represent through professional performance, transparency, and a strong pursuit of excellence. 
 
@@ -10,7 +10,12 @@ I bring to the table a high level of <em><b>focus</b></em>, <em><b>dedication</b
   
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Ehmkayel)
 
-**I am currently on a one-year Women Techsters Fellowship scholarship with Tech4Dev, specializing in Frontend Development.**
+Currently, I am advancing my skills through a **Software Engineering Fellowship with Tech4Dev**, where I work on diverse projects that challenge me to grow beyond my comfort zone. 
+
+Alongside my technical journey, I developed a strong interest in the business side of technology. This inspired my decision to pursue a Master’s in International Business in the United Kingdom as my long-term goal is to become a Technical Project Manager; a professional who understands both the technical requirements of building products and the business strategies needed to align those solutions with organizational goals and global market needs.
+
+ A product is only successful when it solves real business problems, adapts to global markets, and creates measurable impact. By studying International Business, I am equipping myself with advanced knowledge in strategy, international trade, governance, and sustainable practices that will help me bridge the gap between technical teams and business stakeholders.
+
 
 ## Experience & Achievements 
 
@@ -73,7 +78,6 @@ Technologies: React, Tailwind CSS
 - Devcareer | Web5 Hackathon		2023
 - Tech4dev | Software Development
 
-Currently, I’m actively working on <b>DeclutMart</b>, pushing its features to new heights.
 
 Tech Stacks:
 
