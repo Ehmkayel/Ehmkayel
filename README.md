@@ -56,7 +56,7 @@ Technologies: React, Tailwind CSS, Framer Motion
 - Dagunduro – Collaborated with a cross-functional team to build and launch a web and admin dashboard for a church in Houston, enabling community-driven initiatives and ensuring a seamless experience for both users and administrators.
 Technologies: React, Tailwind CSS, Framer Motion, Paystack
 
-- DeclutMart (Ongoing) – Contributing to an online marketplace where users can buy and sell pre-owned items. Implementing advanced filtering, secure transactions, and an intuitive user interface to enhance the experience.
+- DeclutMart – Contributed to an online marketplace where users can buy and sell pre-owned items. Implementing advanced filtering, secure transactions, and an intuitive user interface to enhance the experience.
 Technologies: React, Tailwind CSS, Framer Motion, Zustand
 
 - FunNest – Built a social networking platform designed to connect people through shared interests, interactive content, and gamified engagement.
