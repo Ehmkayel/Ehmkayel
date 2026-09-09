@@ -16,6 +16,11 @@ Alongside my technical journey, I developed a strong interest in the business si
 
  A product is only successful when it solves real business problems, adapts to global markets, and creates measurable impact. By studying International Business, I am equipping myself with advanced knowledge in strategy, international trade, governance, and sustainable practices that will help me bridge the gap between technical teams and business stakeholders.
 
+ 
+## Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=Ehmkayel&show_icons=true&theme=ambient_gradient&) ![](https://github-readme-streak-stats.herokuapp.com/?user=Ehmkayel&)
+
 
 ## Experience & Achievements 
 
